@@ -31,5 +31,8 @@
     <None Include="generate_test.ipynb">
       <Filter>Исходные файлы</Filter>
     </None>
+    <None Include="generate_test.py">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
 </Project>
